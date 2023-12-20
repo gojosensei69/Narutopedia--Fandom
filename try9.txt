@@ -1,0 +1,79 @@
+<html>
+<title>Display Image</title>
+</head>
+<body>
+<font face="Bookman Old Style"><H1>AKATSUKI</H1></font>
+<style type="text/css">
+.img_dec
+{
+float: left;
+width:50%;
+height:50%;
+}
+
+.pos_cen
+{
+position: absolute;
+width 70%;
+}
+</style>
+</head>
+<body>
+<div class=pos_cen">
+<p>
+<img src="akatsuki_pic.jpg" alt="akatsuki pic" width="669" height="400"
+<p>
+<h1><font size =5>1.Origins: </h1></font><font size=5>The Akatsuki was originally formed by Yahiko, Konan, and Nagato (who later becomes known as Pain) in an attempt to bring peace to their war-torn homeland, the Hidden Rain Village (Amegakure). After Yahiko's death, Nagato assumed leadership.</font>
+<h1><font size =5>2.Members: </h1></font><font size=5>The Akatsuki is composed of powerful rogue ninja who have defected from their respective villages. Each member is highly skilled and has unique abilities. Some notable members include Itachi Uchiha, Kisame Hoshigaki, Deidara, Sasori, and others.</font>
+<h1><font size =5>3.Goals: </h1></font><font size=5>The original goal of the Akatsuki was to achieve peace by eliminating the leaders of the major ninja villages, which they believed would end the constant wars. However, under Nagato's leadership, the organization's goals shifted to using fear and force to impose their version of peace on the world.</font>
+<h1><font size =5>4.Capture of Tailed Beasts: </h1></font><font size=5>One of the major objectives of the Akatsuki is to capture the Tailed Beasts (Bijuu) and extract them from their hosts. These powerful creatures, also known as Jinchuriki, are beings with immense chakra and unique abilities.
+<h1><font size =5>5.Final Battle:</h1></font><font size=5>The conflict with the Akatsuki culminates in a series of intense battles, leading to a final confrontation between Naruto and Sasuke against the remaining members of the organization, including Nagato and Obito Uchiha.</font>
+
+</p>
+</body>
+</html>
+ 
+
+
+
+
+
+<html>
+<title>Display Image</title>
+</head>
+<body>
+<font size=5><H1>Akatsuki members and their informations: </H1></font>
+
+
+
+<font size=4><H1>1: KONAN </H1></font>
+<style type="text/css">
+.img_deg
+{
+float: right;
+width: 40%;
+height:40%;
+}
+.pos_cen
+{
+position: absolute;
+width: 70%;
+top:150%;
+right:33%;
+
+}
+</style>
+</head>
+<body>
+<div class="pos_cen">
+<p>
+<img class="img_deg" src="Konan.jpg" alt="Konan" width="900" height="1250"
+<p>
+<font size=5>Konan (小南) was a kunoichi from Amegakure and a founding member of the original Akatsuki. After Yahiko's death, she was partnered with Nagato, who had since taken control of Akatsuki, and was the only member to call him by his name. After Nagato's death, Konan defected from Akatsuki and became the de facto village head of Amegakure.</font>
+</p>
+<div>
+</body>
+</html>
+
+
+
